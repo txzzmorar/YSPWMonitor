@@ -46,7 +46,7 @@ public class YSPWMonitor {
         System.out.println(getTime()+"Password page live!");
         String DiscordWebHook = "https://discordapp.com/api/webhooks/xxx/xxx";
            Document webhook = Jsoup.connect(DiscordWebHook)
-                .data("content",getTime()+url+" PASSWORD PAGE UP- TEST")
+                .data("content",getTime()+url+" PASSWORD PAGE UP")
                 .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36")
                 .post();
            //System.out.println(webhook.body());
@@ -63,7 +63,7 @@ public class YSPWMonitor {
         
                 System.out.println("Password Down - YeezySupply Live!");
                 Document webhook2 = Jsoup.connect(DiscordWebHook)
-                        .data("content",getTime()+url+" LIVE - TEST")
+                        .data("content",getTime()+url+" LIVE")
                         .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36")
                         .post();
                 didPassGoDown = true;
