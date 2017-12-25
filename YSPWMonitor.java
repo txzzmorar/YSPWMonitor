@@ -22,14 +22,14 @@ public class YSPWMonitor {
     /**
      * @param args the command line arguments
      */
-    static String url = "https://abc-atc.xyz";
+    static String url = "https://yeezysupply.com";
     
     
     public static void main(String[] args) throws IOException, InterruptedException {
         // TODO code application logic here
-        System.setProperty("http.proxyHost", "us1.proxies.online");
-        System.setProperty("http.proxyPort", "8182");
-        System.out.println("Password Page Monitor Made by @txzzmorar & @snupreme");
+        System.setProperty("http.proxyHost", "localhost");
+        System.setProperty("http.proxyPort", "80");
+        System.out.println("Password Page Monitor Made by @txzzmorar");
         System.out.println("Starting YeezySupply Password Page Monitor");
         System.out.println("v3.0");
         System.out.println("---");
@@ -44,7 +44,7 @@ public class YSPWMonitor {
             Thread.sleep(delay);
         }
         System.out.println(getTime()+"Password page live!");
-        String DiscordWebHook = "https://discordapp.com/api/webhooks/392692146639077384/Cq4h6Rb0HVe2l9tvnIqM_rKuGrWF_hmQbfBeQrW2XxTEGe3co8fTq1j6Lh0ywc5Ndldy";
+        String DiscordWebHook = "https://discordapp.com/api/webhooks/xxx/xxx";
            Document webhook = Jsoup.connect(DiscordWebHook)
                 .data("content",getTime()+url+" PASSWORD PAGE UP- TEST")
                 .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36")
