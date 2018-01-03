@@ -13,3 +13,21 @@ then run
 java -jar YWPWMonitor.jar
 then follow the instructions that it asks.
 ```
+
+### Setup
+
+!(https://i.gyazo.com/f085ba1bcfb1bd011dcd28bc499773dc.png)
+!(https://i.gyazo.com/1803db50e5144ced9a5b81431a36aaaf.png)
+!(https://i.gyazo.com/aa5dde017fd9cf1f145097a7b71ce63e.png)
+
+
+
+## Todo List
+- [ ] Twitter.
+- [x] Discord
+
+### What does this thing do?
+- Monitors if Password page is up or down.
+- Posts it to discord
+- Has proxy usage (user:pass)
+- Easy usage with Discord Webhooks
