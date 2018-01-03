@@ -4,10 +4,10 @@ Monitor for Shopify password pages!
 ### Installation
 
 ```
-Download folder as ZIP
+Download folder the YSPWMonitor Folder (Compiled Build)
 Drag to desktop and extract to desktop
 Open the folder and put your proxies in the proxies.txt folder
-If no proxies just put localhost:80 (Or leave blank).
+If no proxies just put localhost:80.
 Navigate to that folder in Command Prompt (Using CD)
 then run
 java -jar YWPWMonitor.jar
