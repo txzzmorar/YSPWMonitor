@@ -14,6 +14,9 @@ java -jar YWPWMonitor.jar
 then follow the instructions that it asks.
 ```
 
+[![https://gyazo.com/6961725f5ad61e30703735a4eaf35815](https://i.gyazo.com/6961725f5ad61e30703735a4eaf35815.png)](https://gyazo.com/6961725f5ad61e30703735a4eaf35815)
+
+
 ### Setup
 
 Get the webhook and paste it into the webhook.txt (See below on how to get the Discord Webhook).
