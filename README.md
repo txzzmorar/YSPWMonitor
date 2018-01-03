@@ -3,7 +3,7 @@ Monitor for Shopify password pages!
 
 ### Installation
 
-```sh
+```
 Download folder as ZIP
 Drag to desktop and extract to desktop
 Open the folder and put your proxies in the proxies.txt folder
