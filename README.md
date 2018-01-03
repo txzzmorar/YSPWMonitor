@@ -14,6 +14,9 @@ java -jar YWPWMonitor.jar
 then follow the instructions that it asks.
 ```
 
+If you need help with setup or just wanna talk - Join the Discord!
+https://discord.gg/4W2NTxS
+
 [![https://gyazo.com/6961725f5ad61e30703735a4eaf35815](https://i.gyazo.com/6961725f5ad61e30703735a4eaf35815.png)](https://gyazo.com/6961725f5ad61e30703735a4eaf35815)
 
 
