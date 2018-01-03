@@ -9,8 +9,8 @@ Drag to desktop and extract to desktop
 Open the folder and put your proxies in the proxies.txt folder
 If no proxies just put leave it as it is.
 Navigate to that folder in Command Prompt (Using CD)
-then run
-java -jar YWPWMonitor.jar
+then run:
+java -jar YSPWMonitor.jar
 then follow the instructions that it asks.
 ```
 
