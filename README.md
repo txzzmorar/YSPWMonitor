@@ -16,9 +16,7 @@ then follow the instructions that it asks.
 
 ### Setup
 
-![Slack](https://i.gyazo.com/f085ba1bcfb1bd011dcd28bc499773dc.png)
-![Slack](https://i.gyazo.com/1803db50e5144ced9a5b81431a36aaaf.png)
-![Slack](https://i.gyazo.com/843431e914454aea36edd1ba368f7667.png)
+[![https://gyazo.com/61719db2ea4e039f626223dcb56afdf1](https://i.gyazo.com/61719db2ea4e039f626223dcb56afdf1.gif)](https://gyazo.com/61719db2ea4e039f626223dcb56afdf1)
 
 
 
