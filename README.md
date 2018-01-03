@@ -41,6 +41,6 @@ Get the webhook and paste it into the webhook.txt (See below on how to get the D
 - Easy usage with Discord Webhooks
 
 # Thanks
-https://twitter.com/bloodydye
-https://twitter.com/snupreme
-https://twitter.com/pxtvr
+[!]https://twitter.com/bloodydye
+[!]https://twitter.com/snupreme
+[!]https://twitter.com/pxtvr
