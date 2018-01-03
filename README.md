@@ -39,3 +39,8 @@ Get the webhook and paste it into the webhook.txt (See below on how to get the D
 - Posts it to discord
 - Has proxy usage (user:pass)
 - Easy usage with Discord Webhooks
+
+# Thanks
+https://twitter.com/bloodydye
+https://twitter.com/snupreme
+https://twitter.com/pxtvr
