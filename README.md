@@ -16,6 +16,8 @@ then follow the instructions that it asks.
 
 ### Setup
 
+Get the webhook and paste it into the webhook.txt (See below on how to get the Discord Webhook).
+
 [![https://gyazo.com/61719db2ea4e039f626223dcb56afdf1](https://i.gyazo.com/61719db2ea4e039f626223dcb56afdf1.gif)](https://gyazo.com/61719db2ea4e039f626223dcb56afdf1)
 
 
