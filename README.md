@@ -25,6 +25,8 @@ Get the webhook and paste it into the webhook.txt (See below on how to get the D
 ## Todo List
 - [ ] Twitter.
 - [x] Discord
+- [ ] User Interface
+- [ ] Easier config (JSON).
 
 ### What does this thing do?
 - Monitors if Password page is up or down.
