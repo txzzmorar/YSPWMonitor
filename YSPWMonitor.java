@@ -1,8 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
 package yspwmonitor;
 
 import java.io.File;
@@ -23,21 +20,18 @@ import java.util.Random;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-/**
- *
- * @author Tarun
- */
+
+
 public class YSPWMonitor {
 
-    /**
-     * @param args the command line arguments
-     */
+
+    
     
     public static String url;
     
     
     public static void main(String[] args) throws IOException, InterruptedException {
-        // TODO code application logic here
+
         
         Scanner scan4 = new Scanner(new File("webhook.txt"));
         List<String> hookList = new ArrayList<String>();
@@ -103,10 +97,10 @@ public class YSPWMonitor {
                 .requestBody(obj.toString())
                 .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36")
                 .post();
-           //System.out.println(webhook.body());
+
         boolean didPassGoDown = false;
         while(!didPassGoDown){
-            //System.out.println("Pass still up");
+
             boolean StillLive = checkForPassword();
             if (StillLive){
                 System.out.println(getTime()+"Password Still Up");
@@ -142,7 +136,7 @@ public class YSPWMonitor {
         int proxyUse = 0 + rn.nextInt(lenOfProxies-0 + 0);
         String proxy = proxyList.get(proxyUse);
         List<String> proxySplit = Arrays.asList(proxy.split(":"));
-        //System.out.println("Amount of fields in proxy: "+proxySplit.size());
+
         int proxySize = proxySplit.size();
         if (proxySize == 2){
             String proxyIP = proxySplit.get(0);
