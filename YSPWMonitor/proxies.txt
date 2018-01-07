@@ -1,2 +1,2 @@
-localhost:80:-:-
-localhost:80:-:-
+ip:port
+ip:port:user:pass
